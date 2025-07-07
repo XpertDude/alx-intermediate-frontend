@@ -12,18 +12,22 @@
         <a href="#">Link1</a>
         <a href="#">Link2</a>
         <a href="#">Link3</a>
-    </nav>
-    <main>
-        <article>
-            <h1>Title</h1>
-            <section>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, sequi odio harum id, earum iure maxime iusto voluptate qui nihil fuga illo a sed amet recusandae debitis aliquam incidunt laudantium.
-            </section>
-        </article>
-    </main>
-    <footer>
-        @copyright 
-    </footer>
+      </nav>
     </header>
+
+    <main>
+      <article>
+        <h1>Title</h1>
+        <section>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, sequi
+          odio harum id, earum iure maxime iusto voluptate qui nihil fuga illo
+          a sed amet recusandae debitis aliquam incidunt laudantium.
+        </section>
+      </article>
+    </main>
+
+    <footer>
+      &copy; Copyright
+    </footer>
   </body>
 </html>
