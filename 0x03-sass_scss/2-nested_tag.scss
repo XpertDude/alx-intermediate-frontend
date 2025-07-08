@@ -1,0 +1,10 @@
+$nomarginAndPadding: 0px;
+$marginForP: 10px;
+body {
+  margin: $nomarginAndPadding;
+  padding: $nomarginAndPadding;
+}
+
+body p {
+  margin: $marginForP;
+}
